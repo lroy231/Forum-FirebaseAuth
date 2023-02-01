@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="Login">login</string>
+    <string name="create_NewAcc">Create New Account</string>
+    <string name="hint_Name">Name</string>
+    <string name="submit">submit</string>
+    <string name="cancel">cancel</string>
+    <string name="Logout">Logout</string>
+    <string name="NewForum">New Forum</string>
+    <string name="likes">Likes</string>
+    <string name="cancelForum">Cancel</string>
+    <string name="SubmitForum">Submit</string>
+    <string name="forumTitle">Forum Title</string>
+    <string name="ForumDescrip">Forum Description</string>
+</resources>
